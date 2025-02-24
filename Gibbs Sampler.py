@@ -1,13 +1,3 @@
-'''
-Motive Finding- Gibbs Sampler Algorithm
-/ Yeynit Asraf and Neta Sohlberg
-
-"In statistics, Gibbs sampling or a Gibbs sampler is a Markov chain Monte Carlo (MCMC) algorithm for obtaining a sequence of observations which are approximated from a specified multivariate probability distribution,
- when direct sampling is difficult." (Wikipedia)
-
-I used Gibbs Sampler Algorithm to find similar motifs in several DNA sequences. 
-'''
-
 import random
 
 """params: list, int
